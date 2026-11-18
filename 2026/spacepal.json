@@ -1,0 +1,21 @@
+{
+  "name": "Spacepal",
+  "url": "https://getspacepal.com/black-friday/",
+  "description": "Menu bar app that names your Mac desktops (Spaces), previews them all and switches without the slide animation",
+  "category": "utilities",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "20% off Pro with code BLACKFRIDAY (applied automatically)",
+  "code": "BLACKFRIDAY",
+  "pricing": "one-time",
+  "price": {
+    "regular": 9.99,
+    "sale": 7.99,
+    "currency": "USD"
+  },
+  "discount": 20,
+  "startDate": "2026-11-27",
+  "endDate": "2026-12-01",
+  "icon": "https://getspacepal.com/icon-512.png"
+}
