@@ -1,0 +1,13 @@
+{
+  "name": "Faxio",
+  "url": "https://faxio.app/pricing?utm_source=indiegoodies&utm_medium=deal_listing&utm_campaign=black_friday_2026",
+  "description": "Send a fax from your browser or Android phone, pay per fax with no subscription",
+  "category": "productivity",
+  "platforms": ["web"],
+  "deal": "10% off every web purchase, no code: $2.69 per fax, $8.99 for 5",
+  "pricing": "one-time",
+  "price": { "regular": 2.99, "sale": 2.69, "currency": "USD" },
+  "discount": 10,
+  "startDate": "2026-11-24",
+  "endDate": "2026-12-01"
+}
